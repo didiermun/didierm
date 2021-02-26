@@ -4,19 +4,28 @@
 	export let segment;
 </script>
 
-<style>
-	main {
-		position: relative;
-		max-width: 56em;
-		background-color: white;
-		padding: 2em;
-		margin: 0 auto;
-		box-sizing: border-box;
-	}
-</style>
 
-<Nav {segment}/>
+
 
 <main>
+	<section id="main">
+		<!--navigation-------------------------------->
+		<nav>
+		<!--logo--->
+		<a href="/" class="logo">LOGO</a>
+		<!--menu--------->
+		<div class="toggle"></div>
+		<ul class="menu">
+		<li class="active"><a href="/" >Home</a></li>	
+		<li><a href="about">About</a></li>	
+		<li><a href="services">Services</a></li>		
+		<li><a href="contact-form">Contact</a></li>	
+		</ul>
+		<!--language-->
+		<a href="/" class="lang">En</a>
+		</nav>
+	 
+	
 	<slot></slot>
+</section>
 </main>

@@ -1,6 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "didier-munezero",
+  "description": "My web",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",

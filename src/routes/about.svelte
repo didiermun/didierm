@@ -1,9 +1,6 @@
 <svelte:head>
 	<title>About</title>
 </svelte:head>
-<script>
-	import successkid from 'images/successkid.jpg';
-</script>
 <style>
 	#about{
 	width:100%;
@@ -17,33 +14,34 @@
 	position: relative;
 }
 .about-text{
-	font-family: calibri;
-	width: 50%;
+	font-family: Hack, monospace;
+	font-size: 17px;
+	width: 100%;
+}
+.about-text *{
+	width: 80%;
+	margin: 10px auto;
+	padding: 0px;
 }
 .about-text h1{
-	font-size: 5rem;
+	font-size: 3rem;
 	color:#17d1ac;
 }
 .about-text h2{
-	font-size: 3rem;
+	font-size: 1.7rem;
 	color:#FFFFFF;
 	font-weight: 400;
 }
-.about-text h1,h2{
-	margin: 0px;
-	padding: 0px;
-}
-img {
-		width: 100%;
-		max-width: 400px;
-		margin: 0 0 1em 0;
-	}
 .about-text p{
-	font-size: 1.2rem;
+	font-size: 1rem;
 	color:rgba(255,255,255,0.90);
 	
 }
 .about-text button{
+	margin-left: 15rem;
+	width: 80%;
+	margin: 10px auto;
+	padding: 0px;
 	width: 180px;
 	height: 40px;
 	border-radius: 20px;
@@ -62,12 +60,8 @@ img {
 	<!--text---------------------->
 	<div class="about-text">
 	<h1>About Me</h1>
-	<h2>Software Engineer</h2>
+	<h2>A Software Engineer</h2>
 	<p>I enjoy solving real world problems using software engineering. It is more interesting to me more when I am doing these problems by software and hardware programs. So I am a programmer. Passionated to collaborate to open source projects and other tech staffs</p>
 	<button>View More Details</button>
-	</div>
-	<!--about-model----------------->
-	<div class="about-model">
-	<img alt="model" src="{successkid}"/>	
 	</div>
 	</section>

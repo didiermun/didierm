@@ -41,34 +41,13 @@
 	font-size: 16px;
 }
 .name h1{
-	font-family:Poppins;
+	font-family: Hack, monospace;
 	font-size: 40px;
 	margin:0px;
 	letter-spacing: 3px;
 	color:#292929;
 }
-.black-line {
-  align-self: end;
-  width: 50%;
-  height: 15%;
-  margin-bottom: 4em;
-  position: absolute;
-	bottom:0px;
-	left: -3%;
-	border-right: 1px solid  rgba(41,41,41,0.30);
-}
  
-.black-line::after{
-  content: ' ';
-  position: absolute;
-  width: 0;
-  height: 0;
-  border-style: solid;
-  border-width: 11px 11px 0 11px;
- border-color:  #292929 transparent transparent transparent;
-  right: -.7em;
-  bottom: -2px;
-}
  
 .social{
 	position: absolute;
@@ -103,7 +82,7 @@
 	<p>Hello there,</p>
 	<h1>I'm Didier MUNEZERO</h1>
 	<!--details--------------->
-	<p class="details">	I am a software engineer at RCA. I live for programming</p>
+	<p class="details">	I am a software engineer at RCA. I live for programming.</p>
 	
 		
 	</div>

@@ -88,7 +88,7 @@
 	color:rgba(255,255,255,0.50)
 }
 .s-type{
-	font-family: calibri;
+	font-family: Hack, monospace;
 	color:#FFFFFF;
 	background-color: #151515;
 	padding: 10px 15px;

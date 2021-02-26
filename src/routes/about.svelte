@@ -13,7 +13,7 @@
 	margin: 70px auto;
 }
 .about-text{
-	font-family: Hack, monospace;
+	font-family: Poppins;
 	font-size: 17px;
 	width: 100%;
 	margin-bottom: 0px;
@@ -23,10 +23,6 @@
 	width: 80%;
 	margin: 10px auto;
 	padding: 0px;
-}
-.about-text h1{
-	font-size: 3rem;
-	color:#17d1ac;
 }
 .about-text h2{
 	font-size: 1.7rem;
@@ -49,6 +45,7 @@
 	border: none;
 	outline: none;
 	background-color:#ff971d;
+	font-family: Poppins;
 }
 .about-text button:hover{
 	background-color: rgb(31, 112, 31);

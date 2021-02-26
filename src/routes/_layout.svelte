@@ -95,7 +95,7 @@ nav{
 		<!--navigation-------------------------------->
 		<nav>
 		<!--logo--->
-		<a href="/" class="logo">LOGO</a>
+		<a href="/" class="logo">Didier</a>
 		<!--menu--------->
 		<div class="toggle"></div>
 		<ul class="menu">

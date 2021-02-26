@@ -30,6 +30,7 @@
 .name p:nth-child(1),.name .details{
 	color:#6c707c;
 	font-size: 16px;
+	font-family: Poppins;
 }
 .name h1{
 	font-family: Hack, monospace;
@@ -59,18 +60,15 @@
 	font-size: 14px;
 }
 .social a:hover i{
-	color:#17d1ac;
+	color:#ff971d;
 	transition: all ease 0.5s;
 }
 </style>
 <svelte:head>
 	<title>Didier Munezero</title>
 </svelte:head>
- <!--name--------------------------->
 
  <div class="name">
-	<!--hello------->
-	<!--name--->
 	<p>Hello there,</p>
 	<h1>I'm Didier MUNEZERO</h1>
 	<!--details--------------->
@@ -78,7 +76,6 @@
 	
 		
 	</div>
-	<!--social---------------->
 	<div class="social">
 	<a href="facebook.com"><i class="fab fa-facebook-f"></i></a>	
 	<a href="facebook"><i class="fab fa-twitter"></i></a>

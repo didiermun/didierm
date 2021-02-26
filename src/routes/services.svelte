@@ -18,29 +18,12 @@
 	
 }
  
-.s-heading h1{
-	color:#FFFFFF;
-	font-size: 3rem;
-	margin: 0px;
-	padding: 0px;
-	
-}
-.s-heading p{
-	color:rgba(255,255,255,0.30);
-	font-size: 1rem;
-	margin: 0px;
-	padding: 0px;
-}
-.s-heading{
-	text-align: center;
-	margin: 20px 0px;
-}
 .s-box{
 	background-color: #2B2B2B;
-	width:350px;
-	height: 500px;
+	width:300px;
+	height: 380px;
 	margin: 20px;
-	border-radius: 10px;
+	border-radius: 8px;
 	overflow: hidden;
 	box-shadow: 2px 2px 12px rgba(0,0,0,0.1);
 	position: relative;
@@ -74,8 +57,8 @@
 .s-b-text a{
 	margin: 0px;
 	color:#FFFFFF;
-	font-size: 1.1rem;
-	font-family: calibri;
+	font-size: 0.8rem;
+	font-family: Poppins;
 	display: block;
     display: -webkit-box;
 	max-width: 80%;
@@ -96,63 +79,50 @@
 	top: 0px;
 	left: 50%;
 	transform: translateX(-50%);
-	font-size: 18px;
+	font-size: 1.1em;
 	border-radius: 0px 0px 10px 10px;
 	box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
 }
 .s-box:hover{
 	transform:translateY(-10px);
-	transition: all ease 0.3s;
+	transition: all ease .7s;
 	
 }
     </style>
-  <!--services-------------------->
   <section id="services">
-	<!--heading-------------->
-	<div class="s-heading">
-	<h1>Services</h1>
-	<p>Here Is The Some Servies Which We Provide You.</p>
-	</div>
-	<!--services-box-container--------->
 	<div class="b-container">
-	<!--box-1---------------->
 	<div class="s-box">
-	<!--img------------->
 	<div class="s-b-img">
-		<!--type----------->
 		<div class="s-type">Frontend</div>
-		<!--name------->
 		<img src="services/front.jpg" alt="Frontend Dev">
 	</div>
-	<!--text----------------->
 	<div class="s-b-text">
 	<a href="/services" style="text-decoration:none">On front end side, I use some of javascript frameworks to do. Those includes Vue JS , React JS, Svelte. I have been using these for years to mean, I am familiar</a>	
 	</div>
 	</div>
-		<!--box-2---------------->
+
 	<div class="s-box">
-	<!--img------------->
+
 	<div class="s-b-img">
-	<!--type----------->
 		<div class="s-type">Backend</div>
-		<!--name------->
+
 		<img src="services/back.jpg" alt="Backend Dev">
 	</div>
-	<!--text----------------->
+
 	<div class="s-b-text">
 	<a href="/services" style="text-decoration:none">When it comes to backend development, I have been using Javascript and Java. Frameworks like Nest Js, ExpressJS, Graphql, Prisma, Vulcan Js in Javascript, I do use them. I also do Spring Boot in Java Backend developement. Very good at that one.</a>	
 	</div>
 	</div>
-		<!--box-3---------------->
+		
 	<div class="s-box">
-	<!--img------------->
+
 	<div class="s-b-img">
-		<!--type----------->
+
 		<div class="s-type">Mobile Dev</div>
-		<!--name------->
+		
 		<img src="services/mob.jpg" alt="Mobile Dev">
 	</div>
-	<!--text----------------->
+	
 	<div class="s-b-text">
 	<a href="/services" style="text-decoration:none">I am new to this but not bad, I am still studying. Having fun with flutter</a>	
 	</div>

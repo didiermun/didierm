@@ -1,8 +1,3 @@
-<!-- <script>
-	import Nav from '../components/Nav.svelte';
-
-	export let segment;
-</script> -->
 
 
 <style>
@@ -44,7 +39,7 @@ a{
 	width:100%;
 	/* height: 120vh; */
 	box-sizing: border-box;
-	background-color: #ffffff;
+	background-color: #f9fcfb;
 	overflow-x: hidden;
 	overflow-y: hidden;
 }
@@ -61,8 +56,8 @@ nav{
 	width:100%;
 	box-sizing: border-box;
 	padding: 10px 50px;
-	background-color:#ffffff;
-	box-shadow:2px 2px 12px rgba(0,0,0,0.05); 
+	background-color:#f9fcfb;
+	box-shadow:2px 2px 12px #e1f4f3; 
 	z-index: 1;
 }
  
@@ -81,14 +76,14 @@ nav{
 .logo{
 	font-size: 25px;
 	font-weight: bold;
-	color:#292929;
-	font-family:Poppins;
+	color:#ff971d;
+	font-family:Hack;
 }
 .toggle{
 	display: none;
 }
 .menu li a:hover{
-	background-color:#292929;
+	background-color:#ff971d;
 	color:#FFF!important;
 	font-weight: bold;
 	transition: all ease 0.4s;

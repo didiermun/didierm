@@ -3,20 +3,20 @@
 </svelte:head>
 <style>
 	#about{
-	width:100%;
-	height: 100vh;
-	background-color:#161616;
+	width:65%;
 	box-sizing: border-box;
-	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	padding: 50px 5% 0px 5%;
-	position: relative;
+	padding: 20px 5% 0px 5%;
+	margin-top: px;
+	border-radius: 10px;
+	margin: 70px auto;
 }
 .about-text{
 	font-family: Hack, monospace;
 	font-size: 17px;
 	width: 100%;
+	margin-bottom: 0px;
 	text-align: center;
 }
 .about-text *{
@@ -30,12 +30,12 @@
 }
 .about-text h2{
 	font-size: 1.7rem;
-	color:#FFFFFF;
+	color:#000000;
 	font-weight: 400;
 }
 .about-text p{
 	font-size: 1rem;
-	color:rgba(255,255,255,0.90);
+	color:rgba(0, 0, 0, 0.9);
 	
 }
 .about-text button{
@@ -48,10 +48,10 @@
 	border-radius: 20px;
 	border: none;
 	outline: none;
-	background-color:#17d1ac;
+	background-color:#ff971d;
 }
 .about-text button:hover{
-	background-color: #FFFFFF;
+	background-color: rgb(31, 112, 31);
 	transition: all ease 0.3s;
 }
 
@@ -60,7 +60,6 @@
 <section id="about">
 	<!--text---------------------->
 	<div class="about-text">
-	<h1>About Me</h1>
 	<h2>A Software Engineer</h2>
 	<p>I enjoy solving real world problems using software engineering. It is more interesting to me more when I am doing these problems by software and hardware programs. So I am a programmer. Passionated to collaborate to open source projects and other tech staffs</p>
 	<button>View More Details</button>

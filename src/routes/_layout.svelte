@@ -87,7 +87,6 @@ nav{
 .toggle{
 	display: none;
 }
-.active a,
 .menu li a:hover{
 	background-color:#292929;
 	color:#FFF!important;

@@ -61,7 +61,7 @@ img {
 <section id="about">
 	<!--text---------------------->
 	<div class="about-text">
-	<h1>About Didier</h1>
+	<h1>About Me</h1>
 	<h2>Software Engineer</h2>
 	<p>I enjoy solving real world problems using software engineering. It is more interesting to me more when I am doing these problems by software and hardware programs. So I am a programmer. Passionated to collaborate to open source projects and other tech staffs</p>
 	<button>View More Details</button>

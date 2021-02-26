@@ -122,7 +122,7 @@
 		<!--type----------->
 		<div class="s-type">Frontend</div>
 		<!--name------->
-		<img src="images/s1.png">
+		<img src="services/front.jpg" alt="Frontend Dev">
 	</div>
 	<!--text----------------->
 	<div class="s-b-text">
@@ -136,7 +136,7 @@
 	<!--type----------->
 		<div class="s-type">Backend</div>
 		<!--name------->
-		<img src="images/s2.png">
+		<img src="services/back.jpg" alt="Backend Dev">
 	</div>
 	<!--text----------------->
 	<div class="s-b-text">
@@ -150,7 +150,7 @@
 		<!--type----------->
 		<div class="s-type">Mobile Dev</div>
 		<!--name------->
-		<img src="images/s3.jpg">
+		<img src="services/mob.jpg" alt="Mobile Dev">
 	</div>
 	<!--text----------------->
 	<div class="s-b-text">

@@ -47,19 +47,6 @@
 	letter-spacing: 3px;
 	color:#292929;
 }
-.cv-btn{
-	width:200px;
-	height: 45px;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	background-color: #292929;
-	color:#FFFFFF;
-}
-.cv-btn:hover{
-	background-color: #131313;
-	transition: all ease 0.5s;
-}
 .black-line {
   align-self: end;
   width: 50%;
@@ -83,11 +70,6 @@
   bottom: -2px;
 }
  
-img {
-		width: 100%;
-		max-width: 400px;
-		margin: 0 0 1em 0;
-	}
 .social{
 	position: absolute;
 	left: 50px;
@@ -117,18 +99,14 @@ img {
  <!--name--------------------------->
  <div class="name">
 	<!--hello------->
-	<p>Hello</p>
 	<!--name--->
-	<h1>I'm <font color="#17d1ac">Didier</font> MUNEZERO</h1>
+	<p>Hello there,</p>
+	<h1>I'm Didier MUNEZERO</h1>
 	<!--details--------------->
-	<p class="details">	I am a software engineer at RCA. I do open source projects and I like having fun</p>
-	<!--cv button-------------------->
-	<a href="/" class="cv-btn">Download Cv</a>
+	<p class="details">	I am a software engineer at RCA. I live for programming</p>
 	
 		
 	</div>
-		<!--down arrow-------------->
-	<div class="black-line" ></div>
 	<!--social---------------->
 	<div class="social">
 	<a href="facebook.com"><i class="fab fa-facebook-f"></i></a>	
@@ -136,7 +114,3 @@ img {
 	<a href="facebook"><i class="fab fa-instagram"></i></a>
 	<a href="facebook"><i class="fab fa-youtube"></i></a>	
 	</div>
-	<div class="about-model">
-		<img alt="model" src="{successkid}"/>	
-		</div>
-  

@@ -61,9 +61,9 @@ img {
 <section id="about">
 	<!--text---------------------->
 	<div class="about-text">
-	<h1>About Us</h1>
-	<h2>FreeLancing Developer</h2>
-	<p>Enjoy the ultimate web design editor. Divi is like Photoshop or Sketch for the web. It brings an advanced design interface to WordPress that both beginners and experts will fall in love with. It's incredibly smart, super flexible, amazingly powerful and visual by nature. This is how designing for the web is meant to be done.</p>
+	<h1>About Didier</h1>
+	<h2>Software Engineer</h2>
+	<p>I enjoy solving real world problems using software engineering. It is more interesting to me more when I am doing these problems by software and hardware programs. So I am a programmer. Passionated to collaborate to open source projects and other tech staffs</p>
 	<button>View More Details</button>
 	</div>
 	<!--about-model----------------->

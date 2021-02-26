@@ -83,7 +83,11 @@
   bottom: -2px;
 }
  
- 
+img {
+		width: 100%;
+		max-width: 400px;
+		margin: 0 0 1em 0;
+	}
 .social{
 	position: absolute;
 	left: 50px;
@@ -104,7 +108,9 @@
 	transition: all ease 0.5s;
 }
 </style>
-
+<script>
+	import successkid from 'images/successkid.jpg';
+</script>
 <svelte:head>
 	<title>Didier Munezero</title>
 </svelte:head>
@@ -130,4 +136,7 @@
 	<a href="facebook"><i class="fab fa-instagram"></i></a>
 	<a href="facebook"><i class="fab fa-youtube"></i></a>	
 	</div>
+	<div class="about-model">
+		<img alt="model" src="{successkid}"/>	
+		</div>
   

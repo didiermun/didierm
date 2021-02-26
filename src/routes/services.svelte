@@ -120,13 +120,13 @@
 	<!--img------------->
 	<div class="s-b-img">
 		<!--type----------->
-		<div class="s-type">Front-End</div>
+		<div class="s-type">Frontend</div>
 		<!--name------->
 		<img src="images/s1.png">
 	</div>
 	<!--text----------------->
 	<div class="s-b-text">
-	<a href="#">With Divi, every part of your website is customizable. You have complete freedom to create the perfect website for you or your clients. Easily change colors, fonts and text styles. Apply stunning animations.</a>	
+	<a href="/services" style="text-decoration:none">On front end side, I use some of javascript frameworks to do. Those includes Vue JS , React JS, Svelte. I have been using these for years to mean, I am familiar</a>	
 	</div>
 	</div>
 		<!--box-2---------------->
@@ -134,13 +134,13 @@
 	<!--img------------->
 	<div class="s-b-img">
 	<!--type----------->
-		<div class="s-type">Back-End</div>
+		<div class="s-type">Backend</div>
 		<!--name------->
 		<img src="images/s2.png">
 	</div>
 	<!--text----------------->
 	<div class="s-b-text">
-	<a href="#">With Divi, every part of your website is customizable. You have complete freedom to create the perfect website for you or your clients. Easily change colors, fonts and text styles. Apply stunning animations.</a>	
+	<a href="/services" style="text-decoration:none">When it comes to backend development, I have been using Javascript and Java. Frameworks like Nest Js, ExpressJS, Graphql, Prisma, Vulcan Js in Javascript, I do use them. I also do Spring Boot in Java Backend developement. Very good at that one.</a>	
 	</div>
 	</div>
 		<!--box-3---------------->
@@ -148,13 +148,13 @@
 	<!--img------------->
 	<div class="s-b-img">
 		<!--type----------->
-		<div class="s-type">SEO</div>
+		<div class="s-type">Mobile Dev</div>
 		<!--name------->
 		<img src="images/s3.jpg">
 	</div>
 	<!--text----------------->
 	<div class="s-b-text">
-	<a href="#">With Divi, every part of your website is customizable. You have complete freedom to create the perfect website for you or your clients. Easily change colors, fonts and text styles. Apply stunning animations.</a>	
+	<a href="/services" style="text-decoration:none">I am new to this but not bad, I am still studying. Having fun with flutter</a>	
 	</div>
 	</div>
 	</div>

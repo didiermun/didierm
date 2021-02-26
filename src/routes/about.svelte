@@ -17,6 +17,7 @@
 	font-family: Hack, monospace;
 	font-size: 17px;
 	width: 100%;
+	text-align: center;
 }
 .about-text *{
 	width: 80%;

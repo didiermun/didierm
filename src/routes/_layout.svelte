@@ -42,13 +42,11 @@ a{
 	padding:30px 50px;
 	position:relative;
 	width:100%;
-	height: 100vh;
+	/* height: 120vh; */
 	box-sizing: border-box;
-	background-size: 1330px;
-	background-position: right bottom;
-	background-repeat: no-repeat;
-	background-image: url("../images/bg.png");
-	background-color: #edf1fd;
+	background-color: #ffffff;
+	overflow-x: hidden;
+	overflow-y: hidden;
 }
 nav{
 	display:flex;
@@ -57,14 +55,13 @@ nav{
 	text-transform: uppercase;
 	font-weight: 600;
 	letter-spacing: 2px;
-	font-family: calibri;
 	position: fixed;
 	top: 0;
 	left: 0;
 	width:100%;
 	box-sizing: border-box;
 	padding: 10px 50px;
-	background-color:#F4F7FF;
+	background-color:#ffffff;
 	box-shadow:2px 2px 12px rgba(0,0,0,0.05); 
 	z-index: 1;
 }

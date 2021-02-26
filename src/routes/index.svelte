@@ -1,20 +1,10 @@
 
 
 <style>
-	h1, figure, p {
-		text-align: center;
-		margin: 0 auto;
-	}
-
 	h1 {
 		font-size: 2.8em;
 		text-transform: uppercase;
 		font-weight: 700;
-		margin: 0 0 0.5em 0;
-	}
-
-	figure {
-		margin: 0 0 1em 0;
 	}
 
 	
@@ -30,11 +20,12 @@
 	}
 	.name{
 	font-family: calibri;
-	width: 500px;
+	width: 100%;
 	position: absolute;
 	left: 20%;
 	top: 50%;
 	transform: translate(-20%,-50%);
+	text-align: center;
 }
 .name p:nth-child(1),.name .details{
 	color:#6c707c;
@@ -50,10 +41,13 @@
  
  
 .social{
-	position: absolute;
 	left: 50px;
 	bottom: 50px;
 	display: flex;
+	margin: auto;
+	margin-top: 410px;
+    width: 60%;
+    padding: 10px;
  
 }
 .social a{
@@ -69,13 +63,11 @@
 	transition: all ease 0.5s;
 }
 </style>
-<script>
-	import successkid from 'images/successkid.jpg';
-</script>
 <svelte:head>
 	<title>Didier Munezero</title>
 </svelte:head>
  <!--name--------------------------->
+
  <div class="name">
 	<!--hello------->
 	<!--name--->

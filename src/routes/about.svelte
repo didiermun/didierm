@@ -48,8 +48,9 @@
 	font-family: Poppins;
 }
 .about-text button:hover{
-	background-color: rgb(31, 112, 31);
+	background-color: rgb(114, 161, 114);
 	transition: all ease 0.3s;
+	color: #fff;
 }
 
 	</style>

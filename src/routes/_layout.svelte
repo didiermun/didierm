@@ -37,7 +37,7 @@ a{
 	padding:30px 50px;
 	position:relative;
 	width:100%;
-	/* height: 120vh; */
+	min-height: 100vh;
 	box-sizing: border-box;
 	background-color: #f9fcfb;
 	overflow-x: hidden;
@@ -109,5 +109,6 @@ nav{
 	 
 	
 	<slot></slot>
+	
 </section>
 </main>

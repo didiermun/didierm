@@ -1,9 +1,7 @@
 <svelte:head>
 	<title>About</title>
 </svelte:head>
-<script>
-	import successkid from 'images/successkid.jpg';
-</script>
+
 <style>
     #services{
 		width:100%;
@@ -11,6 +9,7 @@
 	box-sizing: border-box;
 	font-family: calibri;
 	display: flex;
+	flex-wrap: wrap;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
@@ -110,7 +109,7 @@
 	</div>
 
 	<div class="s-b-text">
-	<a href="/services" style="text-decoration:none">When it comes to backend development, I have been using Javascript and Java. Frameworks like Nest Js, ExpressJS, Graphql, Prisma, Vulcan Js in Javascript, I do use them. I also do Spring Boot in Java Backend developement. Very good at that one.</a>	
+	<a href="/services" style="text-decoration:none">When it comes to backend development, I have been using Javascript and Java. Frameworks like Nest Js, ExpressJS, GraphQl, Prisma, Vulcan Js in Javascript, I do use them. I also do Spring Boot in Java Backend developement. Very good at that one.</a>	
 	</div>
 	</div>
 		

@@ -123,7 +123,7 @@
 	</div>
 	
 	<div class="s-b-text">
-	<a href="/services" style="text-decoration:none">I am new to this but not bad, I am still studying. Having fun with flutter</a>	
+	<a href="/services" style="text-decoration:none">I am new to this but not bad, I am still studying we can go with this one using flutter</a>	
 	</div>
 	</div>
 	</div>

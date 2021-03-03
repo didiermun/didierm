@@ -72,13 +72,13 @@
 	<p>Hello there,</p>
 	<h1>I'm Didier MUNEZERO</h1>
 	<!--details--------------->
-	<p class="details">	I am a software engineer at RCA. I live for programming.</p>
+	<p class="details">	I am a software engineer at RCA. I like to be a problem solver.</p>
 	
 		
 	</div>
 	<div class="social">
-	<a href="facebook.com"><i class="fab fa-facebook-f"></i></a>	
-	<a href="facebook"><i class="fab fa-twitter"></i></a>
-	<a href="facebook"><i class="fab fa-instagram"></i></a>
-	<a href="facebook"><i class="fab fa-youtube"></i></a>	
+	<a href="https://www.facebook.com/didiermunezer38/"><i class="fab fa-facebook-f"></i></a>	
+	<a href="https://twitter.com/DidierMUNEZERO4"><i class="fab fa-twitter"></i></a>
+	<a href="https://www.instagram.com/munezerodidier38/"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/in/didier-munezero-07b849194/"><i class="fab fa-linkedin"></i></a>	
 	</div>

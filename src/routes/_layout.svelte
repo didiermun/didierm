@@ -104,7 +104,7 @@ nav{
 		<li><a href="services">Services</a></li>		
 		</ul>
 		<!--language-->
-		<a href="/" class="lang">En</a>
+		<a href="/" class="lang" style="font-size:13px;text-transform: none;">English</a>
 		</nav>
 	 
 	

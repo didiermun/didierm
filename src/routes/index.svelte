@@ -80,5 +80,6 @@
 	<a href="https://www.facebook.com/didiermunezer38/"><i class="fab fa-facebook-f"></i></a>	
 	<a href="https://twitter.com/DidierMUNEZERO4"><i class="fab fa-twitter"></i></a>
 	<a href="https://www.instagram.com/munezerodidier38/"><i class="fab fa-instagram"></i></a>
-	<a href="https://www.linkedin.com/in/didier-munezero-07b849194/"><i class="fab fa-linkedin"></i></a>	
+	<a href="https://www.linkedin.com/in/didier-munezero-07b849194/"><i class="fab fa-linkedin"></i></a>
+	<a href="https://github.com/didiermunezero"><i class="fab fa-github"></i></a>	
 	</div>

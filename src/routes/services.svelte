@@ -1,25 +1,22 @@
 <svelte:head>
-	<title>About</title>
+	<title>Services</title>
 </svelte:head>
 
 <style>
     #services{
-		width:100%;
-	height:100vh;
+	min-height:100vh;
 	box-sizing: border-box;
 	font-family: calibri;
-	display: flex;
-	flex-wrap: wrap;
-	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	padding-top: 40px ;
+	padding-top: 40px;
 	
 }
  
 .s-box{
 	background-color: #2B2B2B;
-	width:300px;
+	min-width:300px;
+	max-width: 320px;
 	height: 380px;
 	margin: 20px;
 	border-radius: 8px;
@@ -83,8 +80,8 @@
 	box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
 }
 .s-box:hover{
-	transform:translateY(-10px);
-	transition: all ease .7s;
+	transform: translateY(-3);
+	transition: all ease 1.5s;
 	
 }
     </style>

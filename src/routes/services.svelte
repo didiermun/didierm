@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Services</title>
+	<title>Didier's Services</title>
 </svelte:head>
 
 <style>

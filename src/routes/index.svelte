@@ -65,7 +65,7 @@
 }
 </style>
 <svelte:head>
-	<title>Didier Munezero</title>
+	<title>Didier MUNEZERO</title>
 </svelte:head>
 
  <div class="name">

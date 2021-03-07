@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>About</title>
+	<title>Didier's About</title>
 </svelte:head>
 <style>
 	#about{

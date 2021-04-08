@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "sapper dev",
     "build": "sapper export",
-    "export": "sapper export --basepath <your-app-name> --legacy",
+    "export": "sapper export --basepath didierm --legacy",
     "start": "node __sapper__/build",
     "deploy": "npm run export && node ./scripts/gh-pages.js"
   },

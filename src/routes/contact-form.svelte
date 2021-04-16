@@ -38,30 +38,6 @@
 	justify-content: space-between;
 	border-left: 1px solid rgba(255,255,255,0.08);
 }
-.contact-right button{
-	width: 100%;
-	height: 50px;
-	background-color: #1ED98B;
-	font-weight: bold;
-	outline: none;
-	border: none;
-	margin: 0px;
-	color:#1B1B1B;
-	font-size: 14px;
-	text-transform: uppercase;
-	letter-spacing: 2px;
- 
-}
-.f-name input,.f-email input{
-	height: 30px;
-	width:250px;
-	border: none;
-	outline: none;
-	background-color:transparent;
-	border-bottom: 1px solid #929292;
-	color:#FFFFFF;
-	margin: 10px 0px;
-}
 .contact-right textarea{
 	width: 100% !important;
 	height: 320px !important;

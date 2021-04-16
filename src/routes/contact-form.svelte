@@ -134,14 +134,11 @@
 	<input type="email" placeholder="Example@gmail.com"/>
 	</div>
 	</div>
-	<!--right------------------------------------------->
 	<div class="contact-right">
-	<!--message-------->
 	<div class="message">
 	<font >Message</font>
 	<textarea name="message" rows="5" cols="20" placeholder="Write Message..."></textarea>
 	</div>
-	<!--submit-btn------------>
 	<button>submit</button>
 	</div>
 		

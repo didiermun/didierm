@@ -29,25 +29,6 @@
 	flex-direction: column;
 	align-items: center;
 }
-.contact-right{
-	width: 60%;
-	height: 100%;
-	box-sizing: border-box;
-	display: flex;
-	flex-direction: column;
-	justify-content: space-between;
-	border-left: 1px solid rgba(255,255,255,0.08);
-}
-.contact-right textarea{
-	width: 100% !important;
-	height: 320px !important;
-	border: none;
-	outline: none;
-	background-color:transparent;
-	box-sizing: border-box;
-	color:#EBEBEB;
-	font-size: 16px;
-}
     </style>
   <section id="contact-form">
 	<form>

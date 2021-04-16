@@ -61,16 +61,6 @@
 	border-bottom: 1px solid #929292;
 	color:#FFFFFF;
 	margin: 10px 0px;
-}
-.f-email input::placeholder,
-.f-name input::placeholder{
-	opacity: 0.5;
-	letter-spacing: 1px;
-}
-.f-email input:focus,
-.f-name input:focus{
-	border-bottom: 1px solid #17d1ac;
-	transition: all ease 0.5s;
 }.message font{
 	font-size: 18px;
 	color:#4E4E4E;

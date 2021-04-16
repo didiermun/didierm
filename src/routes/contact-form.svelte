@@ -98,7 +98,7 @@
 .message{
 	margin: 20px;
 }
-/* .contact-right textarea{
+.contact-right textarea{
 	width: 100% !important;
 	height: 320px !important;
 	border: none;
@@ -107,7 +107,7 @@
 	box-sizing: border-box;
 	color:#EBEBEB;
 	font-size: 16px;
-} */
+}
 .contact-right textarea::placeholder{
 	color:#EBEBEB;
 	font-size: 18px;

@@ -114,10 +114,10 @@
 	letter-spacing: 2px;
 	font-family: calibri;
 }
-.contact-right button:active{
+/* .contact-right button:active{
 	transform: scale(1.04);
 	transition: all ease 0.1s;
-}
+} */
     </style>
   <!--contact-form------------------->
   <section id="contact-form">

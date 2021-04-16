@@ -123,12 +123,10 @@
 	<form>
 	<div class="contact-left">
 	<h1 class="c-l-heading"><font style="border-bottom: 3px solid #1ED98B;">Writ</font>e us</h1>
-	<!--name-------->
 	<div class="f-name">
 	<font >Name</font>
 	<input type="text" placeholder="Full Name"/>
 	</div>
-	<!--email-------->
 	<div class="f-email">
 	<font >Email</font>
 	<input type="email" placeholder="Example@gmail.com"/>

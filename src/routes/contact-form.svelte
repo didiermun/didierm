@@ -61,14 +61,6 @@
 	border-bottom: 1px solid #929292;
 	color:#FFFFFF;
 	margin: 10px 0px;
-}.message font{
-	font-size: 18px;
-	color:#4E4E4E;
-	font-family: calibri;
-	
-}
-.message{
-	margin: 20px;
 }
 .contact-right textarea{
 	width: 100% !important;

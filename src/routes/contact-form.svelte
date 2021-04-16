@@ -65,9 +65,7 @@
 	<div class="message">
 	<font >Message</font>
 	<textarea name="message" rows="5" cols="20" placeholder="Write Message..."></textarea>
-	</div>
-	<button>submit</button>
-	</div>
+	
 		
 	</form>
 	</section>

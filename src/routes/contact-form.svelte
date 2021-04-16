@@ -52,24 +52,6 @@
 	letter-spacing: 2px;
  
 }
-.c-l-heading{
-	font-family: calibri;
-	color:#FFFFFF;
-	font-size: 3rem;
-	letter-spacing: 2px;
-	font-weight: 400;
-	
-}
-.f-name,.f-email{
-	display: flex;
-	flex-direction: column;
-	font-family: calibri;
-	
-}
-.f-name font,.f-email font{
-	color:#BFBFBF;
-	font-size: 22px;
-}
 .f-name input,.f-email input{
 	height: 30px;
 	width:250px;

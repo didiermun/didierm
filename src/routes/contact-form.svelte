@@ -80,16 +80,6 @@
 	color:#EBEBEB;
 	font-size: 16px;
 }
-.contact-right textarea::placeholder{
-	color:#EBEBEB;
-	font-size: 18px;
-	letter-spacing: 2px;
-	font-family: calibri;
-}
-.contact-right button:active{
-	transform: scale(1.04);
-	transition: all ease 0.1s;
-}
     </style>
   <section id="contact-form">
 	<form>

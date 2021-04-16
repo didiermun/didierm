@@ -10,7 +10,7 @@ const url = dev ? '/' : 'didierm'; // <<-
 
 polka()
     .use(
-        url, // <<-
+        url,
         compression({ threshold: 0 }),
         sirv('static', { dev }),
         sapper.middleware()

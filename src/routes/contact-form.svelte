@@ -54,7 +54,6 @@
 	<div class="contact-left">
 	<h1 class="c-l-heading"><font style="border-bottom: 3px solid #1ED98B;">Writ</font>e us</h1>
 	<div class="f-name">
-	<font >Name</font>
 	<input type="text" placeholder="Full Name"/>
 	</div>
 	<div class="f-email">

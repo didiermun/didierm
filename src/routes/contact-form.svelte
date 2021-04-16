@@ -119,10 +119,8 @@
 	transition: all ease 0.1s;
 } */
     </style>
-  <!--contact-form------------------->
   <section id="contact-form">
 	<form>
-	<!--left--------------------------------------->
 	<div class="contact-left">
 	<h1 class="c-l-heading"><font style="border-bottom: 3px solid #1ED98B;">Writ</font>e us</h1>
 	<!--name-------->

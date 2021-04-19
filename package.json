@@ -4,9 +4,10 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
-    "build": "sapper build --legacy",
-    "export": "sapper export --legacy",
-    "start": "node __sapper__/build"
+    "build": "sapper export",
+    "export": "sapper export --basepath didierm --legacy",
+    "start": "node __sapper__/build",
+    "deploy": "npm run export && node ./scripts/gh-pages.js"
   },
   "dependencies": {
     "compression": "^1.7.1",

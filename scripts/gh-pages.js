@@ -1,13 +1,13 @@
 const ghpages = require('gh-pages');
 
 ghpages.publish(
-    '__sapper__/export/<your-app-name>',
+    '__sapper__/export/didierm',
     {
         branch: 'master',
-        repo: 'https://github.com/<your-github-username>/<your-repo-name>.git',
+        repo: 'https://github.com/didiermunezero/didierm.git',
         user: {
-            name: '<your-github-username>',
-            email: '<your-github-email>'
+            name: 'didiermunezero',
+            email: 'didiermunezer38@gmail.com'
         }
     },
     () => {

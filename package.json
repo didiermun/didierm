@@ -4,8 +4,8 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
-    "build":"sapper export",
-    "export": "sapper export  --basepath didierm --legacy",
+    "build": "sapper build --legacy",
+    "export": "sapper export  --basepath  --legacy",
     "start": "node __sapper__/build"
   },
   "dependencies": {
